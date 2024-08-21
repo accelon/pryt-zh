@@ -1,0 +1,12 @@
+{
+    "name":"pryt-zh",
+    "title": "禪修相關作品|禪修",
+    "description":"不同作者",
+    "lang":"zh",
+    "label":"w,su,s,add,t,pl,bb,end,trailer,cite,pdf,pts,en,cut,paste,by,i,hh,edit,notranslation,missing,editnote",
+    "removeLabels":"pdf,pts",
+    "alignment":"pryt-en",
+    "homepage":"https://github.com/accelon/pryt-en",
+    "notesjson":"note",
+    "files":"cma.zh.off"
+}
